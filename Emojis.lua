@@ -12,5 +12,7 @@ return {
   ["warning"] = "⚠️",
   ["star"] = "⭐",
   ["crystallball"] = "🔮",
-  ["chick"] = "🐤";
+  ["chick"] = "🐤",
+  ["house"] = "🏠",
+  ["moneybag"] = "💰";
 }
