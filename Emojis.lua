@@ -14,5 +14,6 @@ return {
   ["crystallball"] = "🔮",
   ["chick"] = "🐤",
   ["house"] = "🏠",
-  ["moneybag"] = "💰";
+  ["moneybag"] = "💰",
+  ["egg"] = "🥚";
 }
